@@ -9,7 +9,7 @@ function Header() {
         <center>
         <b>About:</b>Mehfil started in 2006, as a pocked friendly, family
         restaurant for the economic working class of the city, maintaining
-        quality at it's best,
+        quality at it's best restaurant
         </center>
       </p>
     </>
